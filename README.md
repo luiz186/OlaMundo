@@ -3,4 +3,4 @@
 
  Repositorio criado durante aula 
  
- essa linha adicionei diramente no site 
+ essa linha adicionei diretamente no site 
